@@ -1,5 +1,5 @@
 
-#linear regression
+# linear regression
 # getwd()
 # setwd('C:/Users/isha/Downloads/Data science and machine learning bootcamp (R)/R-Course-HTML-Notes/R-for-Data-Science-and-Machine-Learning/Machine Learning with R')
 df = read.csv('student-mat.csv')
